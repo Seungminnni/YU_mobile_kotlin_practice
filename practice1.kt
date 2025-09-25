@@ -41,8 +41,8 @@
 <EditText
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:hint="Enter your name"
-    android:inputType="textPersonName"
+    android:inputType="phone"
+    android:hint="Enter your phone number"
     android:padding="12dp"
     android:background="#F5F5F5"
     android:textColor="#000000"
